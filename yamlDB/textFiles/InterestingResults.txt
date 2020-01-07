@@ -1,0 +1,10 @@
+
+56e5e2eed6c2029428c60d411ca62e4f:
+ - type: good
+ - galaxy: ra2.5dec-33.5_858101710
+
+b9787aa7b63a35a497570a54c30f63dd:
+ - type: good
+ - galaxy: ra340.5dec-30.5_482410403
+
+candiceg@live.com.au in general

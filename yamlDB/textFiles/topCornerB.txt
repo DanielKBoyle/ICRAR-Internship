@@ -1,0 +1,671 @@
+edcacf186549b221c6f4397fbc2630e3:
+ - type: topCornerB
+ - galaxy: 1077804217
+
+ed8391cbbc56ad3def1391074b934d7c:
+ - type: topCornerB
+ - galaxy: ra229.5dec1.5_788802877
+
+17a983597429bb459102c40e0850f26a:
+ - type: topCornerB
+ - galaxy: ra342.5dec-34.5_317600901
+
+d7f5d601f01c7ffba04535fe20c376c7:
+ - type: topCornerB
+ - galaxy: 183011107
+
+df609f8d20feeaa0286d74f83aec6933:
+ - type: topCornerB
+ - galaxy: 183011107
+
+b7bb1e3e78ae646d6ea03d5a1ce8a35e:
+ - type: topCornerB
+ - galaxy: 747902378
+
+8fe8c6ead48a2492d9f053b3b1997763:
+ - type: topCornerB
+ - galaxy: 125107858
+
+47449968d2e3800867f2e51c5f683d9b:
+ - type: topCornerB
+ - galaxy: 265412299
+
+eeb5e667221414e68c73d979ac3e64d7:
+ - type: topCornerB
+ - galaxy: ra201.5dec-0.5_659401358
+
+3759cb954fa3b2f9b9ef46b9fe60952e:
+ - type: topCornerB
+ - galaxy: 1053809910
+
+c7e5e7de7bda262bd0c80295b859e5b2:
+ - type: topCornerB
+ - galaxy: 62905118
+
+94ee7fc7b443803470d65425d37cd757:
+ - type: topCornerB
+ - galaxy: ra222.5dec0.5_78302259
+
+1009c0944ecaa13aa15a7ff5b1d88343:
+ - type: topCornerB
+ - galaxy: ra39.5dec-28.5_149509442
+
+5b2973ea589fc612dc436dcccb4e9a97:
+ - type: topCornerB
+ - galaxy: ra181.5dec-2.5_461310030
+
+ab8b091a4fd44dda03b0698be025d16c:
+ - type: topCornerB
+ - galaxy: 1032002522
+
+294c94690c8295c437d8558cd6d67403:
+ - type: topCornerB
+ - galaxy: ra230.5dec0.5_585201716
+
+b68bcedfeb32dd9bbf38f860bcbe7aaf:
+ - type: topCornerB
+ - galaxy: 1016506927
+
+7596516b868f9c6c48c1190fa4d6f066:
+ - type: topCornerB
+ - galaxy: 1016506927
+
+e12525eb96c3b1de958b93fefd46a7fd:
+ - type: topCornerB
+ - galaxy: ra184.5dec-0.5_319509679
+
+d4fe382e7d96dc18012dbe881221f507:
+ - type: topCornerB
+ - galaxy: ra131.5dec0.5_688507565
+
+7602a629d5a70055e1a0bf899f6d62f0:
+ - type: topCornerB
+ - galaxy: ra337.5dec-29.5_678710461
+
+00e9949c99a275788f4035146d9997c4:
+ - type: topCornerB
+ - galaxy: 969511215
+
+ae5fe58a66b064afd1dddf433ea6b8c6:
+ - type: topCornerB
+ - galaxy: 441100559
+
+e8869caca5b80633cc4609abf97f8b89:
+ - type: topCornerB
+ - galaxy: 441100559
+
+5be1f237118e62d6076ad721e383da21:
+ - type: topCornerB
+ - galaxy: 441100559
+
+09563c40a466a578758d177a7464dca2:
+ - type: topCornerB
+ - galaxy: ra52.5dec-28.5_108608853
+
+b49a507b44762b59e7558231fdec9031:
+ - type: topCornerB
+ - galaxy: 63501388
+
+55f8277a14395a964258e9a92718d439:
+ - type: topCornerB
+ - galaxy: 63501388
+
+11eab8103ff29cee5b86e0a681a43964:
+ - type: topCornerB
+ - galaxy: 1230301525
+
+e28b99d598bedea94b08dd08408ced2a:
+ - type: topCornerB
+ - galaxy: 522306494
+
+c53b7f7517079951ac2de6af46117d91:
+ - type: topCornerB
+ - galaxy: ra21.5dec-30.5_451107615
+
+0d3e5b5493046b623523c571e6fc72e1:
+ - type: topCornerB
+ - galaxy: 252710276
+
+654c96c665746bc6362f8dc87c44980c:
+ - type: topCornerB
+ - galaxy: ra358.5dec-34.5_643801153
+
+46aa7b25b5d38c2d5126112137b19471:
+ - type: topCornerB
+ - galaxy: 782405686
+
+e4cbdb63d1f3b2c4b5403970d456dcc5:
+ - type: topCornerB
+ - galaxy: 1003801433
+
+bbf1c4e7c091ac7f4e7bf7af298a37c6:
+ - type: topCornerB
+ - galaxy: 33508282
+
+7b4a3a76084f271fd052b7e97f431ab7:
+ - type: topCornerB
+ - galaxy: 642006788
+
+41957dc96e4c9b0f171949f102072f28:
+ - type: topCornerB
+ - galaxy: 642006788
+
+e844a23349ccf4dd2a97d6dc51de1996:
+ - type: topCornerB
+ - galaxy: 224208293
+
+a288d89107291ef0856da13bc3ac1002:
+ - type: topCornerB
+ - galaxy: 224208293
+
+eb3809493f491073188d74c4e1f91aff:
+ - type: topCornerB
+ - galaxy: 1210201266
+
+70121dfaeb92e0aba274642816d22831:
+ - type: topCornerB
+ - galaxy: ra345.5dec-29.5_247304056
+
+86a68e8c1dbb75c6ab495ba32ad3f56b:
+ - type: topCornerB
+ - galaxy: ra174.5dec2.5_1094410753
+
+874b097f5eff730f745281501ad3fb10:
+ - type: topCornerB
+ - galaxy: 683506240
+
+d7d86105835fc7054399641939847f65:
+ - type: topCornerB
+ - galaxy: 683506240
+
+a9961b10698c5e440dbf2c28dab3354f:
+ - type: topCornerB
+ - galaxy: 117811505
+
+6e0126f3ce9c5c618d8f224482ece6d5:
+ - type: topCornerB
+ - galaxy: ra357.5dec-29.5_153204666
+
+8b8d6ba47d3918b5e7d1ba40b4699b62:
+ - type: topCornerB
+ - galaxy: ra219.5dec-0.5_562706475
+
+7f8883406742cf72fdbfc7c0be96ac09:
+ - type: topCornerB
+ - galaxy: ra232.5dec-1.5_688809202
+
+3309e2ba645ae6eb30934ef05d3dcb72:
+ - type: topCornerB
+ - galaxy: ra38.5dec-32.5_329404186
+
+c0f4ef54a96eebba9a58c0e9144c3c2d:
+ - type: topCornerB
+ - galaxy: 885304193
+
+896f227c86f0671e25efe3a4cf6eb604:
+ - type: topCornerB
+ - galaxy: ra230.5dec-0.5_50600507
+
+cd91dabacb069cab6b18a57941cba574:
+ - type: topCornerB
+ - galaxy: ra331.5dec-29.5_1003003596
+
+57511991286d256376cc5db075fe230e:
+ - type: topCornerB
+ - galaxy: 300605
+
+76783357dec6bbb6c33aba72d3f59729:
+ - type: topCornerB
+ - galaxy: ra3.5dec-33.5_30606002
+
+3a5063f8cb62a7507c3436e6f91833a2:
+ - type: topCornerB
+ - galaxy: 349500277
+
+847ec771ed1efefdf679cf4076278a8a:
+ - type: topCornerB
+ - galaxy: 349500277
+
+b9f892b8d5835249d40f84125ab94a9c:
+ - type: topCornerB
+ - galaxy: ra231.5dec-1.5_416805405
+
+c6242173b48a9770f18be7d62c5587a8:
+ - type: topCornerB
+ - galaxy: 371082
+
+94c03db9b9d6d5ad9c0e766491302ac4:
+ - type: topCornerB
+ - galaxy: ra227.5dec-0.5_955100399
+
+624b2f70b08e37ca158688b2d2cbf125:
+ - type: topCornerB
+ - galaxy: ra135.5dec-1.5_860305035
+
+2e8b5c599d01b74bc91e4e09a26af5c8:
+ - type: topCornerB
+ - galaxy: 470805562
+
+b4a4740f1886b165be8f3acbd328afc9:
+ - type: topCornerB
+ - galaxy: ra204.5dec-0.5_994501429
+
+59aad5ed0f1b6edad7c58a69958cc32f:
+ - type: topCornerB
+ - galaxy: ra343.5dec-34.5_477006792
+
+e9f51a450d6a5acc6e1325f23de2f186:
+ - type: topCornerB
+ - galaxy: 192207448
+
+6e08d37ed31f723d0db36cf6e7c32a0c:
+ - type: topCornerB
+ - galaxy: 580003815
+
+d66ac5f5186f8cb705f1e345f188687e:
+ - type: topCornerB
+ - galaxy: ra198.5dec1.5_478400577
+
+fd3b0a600ae70139ac2c6404581e9638:
+ - type: topCornerB
+ - galaxy: ra349.5dec-33.5_1081705699
+
+285ace1f2f1a93b4f3ed36d311a255b9:
+ - type: topCornerB
+ - galaxy: ra201.5dec2.5_102308860
+
+41db84adb61f45868e8a3e3a7d89c5a3:
+ - type: topCornerB
+ - galaxy: 575903799
+
+6bceb598b42c84a879f74054c67398ae:
+ - type: topCornerB
+ - galaxy: 575903799
+
+eb46e01be10614c3b4bdd6e9daf2d2bd:
+ - type: topCornerB
+ - galaxy: 575903799
+
+49fbb1b0f736fdf748aead53b80e7dff:
+ - type: topCornerB
+ - galaxy: 575903799
+
+f9a45f40455c910a4fe3c111b1c0097c:
+ - type: topCornerB
+ - galaxy: ra171.5dec1.5_602900149
+
+abd87e74967b16f19c288f02deb64f6b:
+ - type: topCornerB
+ - galaxy: ra343.5dec-31.5_343003792
+
+b84b0169cf59213853aa2b48453ec5e4:
+ - type: topCornerB
+ - galaxy: ra235.5dec1.5_212200397
+
+6158379323f710ebe907a474fc188e78:
+ - type: topCornerB
+ - galaxy: ra20.5dec-28.5_419400296
+
+198f63e1513fdffa8ce1b687690a721b:
+ - type: topCornerB
+ - galaxy: ra1.5dec-29.5_271702295
+
+905a5612e7d175d374564ad90095e3f5:
+ - type: topCornerB
+ - galaxy: 160711160
+
+4739ebcf6dc8579660ebe8283c49b3e7:
+ - type: topCornerB
+ - galaxy: 160711160
+
+21959ceb19de2e2e94d2e698ee1aeec7:
+ - type: topCornerB
+ - galaxy: 160711160
+
+63aa576d802ba17096b1a036b12f9aba:
+ - type: topCornerB
+ - galaxy: 160711160
+
+4253683c5c21293e0a2c8b09d6d29a1e:
+ - type: topCornerB
+ - galaxy: 99705451
+
+0c6bfe293486bc5cefbca739bf24d2f4:
+ - type: topCornerB
+ - galaxy: 214363
+
+3facf4df415aad1665843c916b3a6965:
+ - type: topCornerB
+ - galaxy: 214363
+
+af096ced677a38df3b001a77172d355a:
+ - type: topCornerB
+ - galaxy: 214363
+
+28f804039a43454f76c8d2af9a796ffc:
+ - type: topCornerB
+ - galaxy: 214363
+
+54a40f1acafa8dbb10ac7681ed268834:
+ - type: topCornerB
+ - galaxy: 214363
+
+10846f874edfb21a730fb19ff0f51d7d:
+ - type: topCornerB
+ - galaxy: ra213.5dec-0.5_453104591
+
+cc3715afdc28210c0a99b49a4faa707c:
+ - type: topCornerB
+ - galaxy: ra170.5dec2.5_612804743
+
+78122ed8f46bd7e7c2cb6c32202c955a:
+ - type: topCornerB
+ - galaxy: 865804415
+
+dde164685d01ae74d6811d98d8704048:
+ - type: topCornerB
+ - galaxy: 278303
+
+d9dbd895ab092de0cf4cdead6cde6b01:
+ - type: topCornerB
+ - galaxy: 278303
+
+a10056cb35c89e2a0d74ecce72e931c7:
+ - type: topCornerB
+ - galaxy: 271210289
+
+055e0b04a108e0545b5a39b7bd61c070:
+ - type: topCornerB
+ - galaxy: 123109949
+
+b81d17bcef4845c8d5f2dcf38d5b5167:
+ - type: topCornerB
+ - galaxy: 123109949
+
+36b26a8b69f4096f2682ed2beaf2f96e:
+ - type: topCornerB
+ - galaxy: 123109949
+
+b6e8d595bf8112e6f55ee620590e7b67:
+ - type: topCornerB
+ - galaxy: 123109949
+
+fb4421fc8a7de5c688ef54279ef9fc67:
+ - type: topCornerB
+ - galaxy: ra128.5dec-0.5_61010001
+
+1e04eb0496d86ffdefa66f959b479ac1:
+ - type: topCornerB
+ - galaxy: ra214.5dec-0.5_1039906953
+
+004dab8e09046d62be7352be5f1d6e5c:
+ - type: topCornerB
+ - galaxy: ra214.5dec-0.5_1039906953
+
+f9c6b00e7954840c1d4e4c8a82166c4c:
+ - type: topCornerB
+ - galaxy: ra355.5dec-28.5_778304669
+
+5798427dcc664362f47476af83fe9070:
+ - type: topCornerB
+ - galaxy: ra213.5dec0.5_560607153
+
+dd462bea668737617e7c9b28c9117994:
+ - type: topCornerB
+ - galaxy: ra223.5dec1.5_116602300
+
+055cfe6b7089ded61ce0022cad050b30:
+ - type: topCornerB
+ - galaxy: 549107588
+
+a756bb444d9f35c9c1b091bae2b7afb9:
+ - type: topCornerB
+ - galaxy: ra37.5dec-30.5_650104967
+
+64fe2d3e3e52917a7e41e64cc7799e99:
+ - type: topCornerB
+ - galaxy: 170500990
+
+0640ba4ad44bbef6b622700757964df9:
+ - type: topCornerB
+ - galaxy: 1111801807
+
+f59c740907b63a36d8254c357788c189:
+ - type: topCornerB
+ - galaxy: 320006546
+
+4bc9371e86a71ac595d4414b61884c86:
+ - type: topCornerB
+ - galaxy: 513411584
+
+8471313da7d7374977baca7559b22afc:
+ - type: topCornerB
+ - galaxy: 449306748
+
+349ff46a26e848bd3222f864f85d70b7:
+ - type: topCornerB
+ - galaxy: 449306748
+
+7c9c5ddb41a78e0346ab5fd4aa2da0e5:
+ - type: topCornerB
+ - galaxy: ra195.5dec1.5_604205810
+
+245913e25e4ce7f5bc4c94cf43210f30:
+ - type: topCornerB
+ - galaxy: ra6.5dec-33.5_685609551
+
+f05e41fd69bb22564362f1c58435a562:
+ - type: topCornerB
+ - galaxy: 832001860
+
+a653ee2b728c6bd898a6386a26c0ae8b:
+ - type: topCornerB
+ - galaxy: 812603698
+
+018d5e1beed3977f8fc2e1213f7c99d1:
+ - type: topCornerB
+ - galaxy: ra15.5dec-29.5_252802963
+
+9bbd1b26cffb674c76ab969e2fe2da8c:
+ - type: topCornerB
+ - galaxy: ra355.5dec-34.5_824207116
+
+ea342fd659da60e9f974dd573cdc9ea9:
+ - type: topCornerB
+ - galaxy: ra129.5dec2.5_1020504249
+
+15c09e7b2de177c98cb335d6c62e2387:
+ - type: topCornerB
+ - galaxy: 1019000854
+
+a22fa12fba42a490a5a3d6595905f122:
+ - type: topCornerB
+ - galaxy: 522301158
+
+4fbd318a41398c168330ce08a2e7a635:
+ - type: topCornerB
+ - galaxy: 137010832
+
+db2316439b6750d376f884e14d2c147d:
+ - type: topCornerB
+ - galaxy: 137010832
+
+fa261452b609673a79137a4db32dc939:
+ - type: topCornerB
+ - galaxy: 371220
+
+5ab87dead190ea709bd60204de7aa6e7:
+ - type: topCornerB
+ - galaxy: 371220
+
+b7e0f959d91553fc43f87a023d8e1b74:
+ - type: topCornerB
+ - galaxy: ra344.5dec-29.5_263005003
+
+763e9e30ef04609f59737c0671b9ce97:
+ - type: topCornerB
+ - galaxy: ra225.5dec0.5_225503251
+
+b72349445b9955432158eec4bd534fea:
+ - type: topCornerB
+ - galaxy: ra176.5dec2.5_932108462
+
+32f168baf5a16515ffc78aabd977c5a3:
+ - type: topCornerB
+ - galaxy: ra193.5dec2.5_884804834
+
+7a405be0dd4b5dca04e475aac78bfc20:
+ - type: topCornerB
+ - galaxy: ra350.5dec-34.5_910804390
+
+942115ff88d6472a72946815d5fca713:
+ - type: topCornerB
+ - galaxy: 693202437
+
+0caf3c483f93d2aabd362b41a6febc8d:
+ - type: topCornerB
+ - galaxy: ra40.5dec-33.5_268305533
+
+78ddd62cdb9c78c58fe6c1a87094542f:
+ - type: topCornerB
+ - galaxy: 371172
+
+a7f8798bed1c683f7ce7cf79eee03361:
+ - type: topCornerB
+ - galaxy: 797508788
+
+62d92ec56735d21a4c11b7e95f72087d:
+ - type: topCornerB
+ - galaxy: 797508788
+
+6334073193826fd11acebaa3973cef31:
+ - type: topCornerB
+ - galaxy: 797508788
+
+c92825ef233ed8dc6d9dd522cbf0364e:
+ - type: topCornerB
+ - galaxy: 300508
+
+73c30e89bd3ac609c2c166bc7254a62e:
+ - type: topCornerB
+ - galaxy: 583904945
+
+1f2466830165e325e64241867fbb6066:
+ - type: topCornerB
+ - galaxy: 29411388
+
+81909c227566e635767d5eaacdc9883b:
+ - type: topCornerB
+ - galaxy: 29411388
+
+b393b2b75af7ffd2a8257f1fb66a0810:
+ - type: topCornerB
+ - galaxy: 29411388
+
+f7035bf93a26d9f9820a3b05c154808b:
+ - type: topCornerB
+ - galaxy: 29411388
+
+95d46d3c8fc48db4e3b99548e2bf6518:
+ - type: topCornerB
+ - galaxy: 7509223
+
+04e3c4da80a14a837a39dbf400941962:
+ - type: topCornerB
+ - galaxy: 1115408328
+
+0ed8df5e20097715b1ea7e9edccbefc5:
+ - type: topCornerB
+ - galaxy: ra130.5dec1.5_529700741
+
+08fa38f1fed919aed8b2bf39f23f9207:
+ - type: topCornerB
+ - galaxy: ra331.5dec-30.5_606302219
+
+4d3578948e9a01899027fafa367f82d8:
+ - type: topCornerB
+ - galaxy: ra224.5dec-0.5_365004524
+
+1047bf4bd0dafc6bdf039613761d0fc5:
+ - type: topCornerB
+ - galaxy: ra225.5dec0.5_782309057
+
+a300545856cbf52ef387295188c42c4a:
+ - type: topCornerB
+ - galaxy: 313806369
+
+30b75297cd7dd75a9a5c1157482eed74:
+ - type: topCornerB
+ - galaxy: ra130.5dec0.5_780210355
+
+24851f9fe9ab2ae3e57d68bee797358d:
+ - type: topCornerB
+ - galaxy: ra234.5dec1.5_200006343
+
+c71e67a6f9842456e4c0e9d73cfa1fa1:
+ - type: topCornerB
+ - galaxy: 789102181
+
+8f83c8305f7a6f7094e8f073d40b4df1:
+ - type: topCornerB
+ - galaxy: ra1.5dec-29.5_222007306
+
+8acedfcc398b93af74261fd16429d197:
+ - type: topCornerB
+ - galaxy: 1113001938
+
+32dec3e0af59a0a2278d7dc04035a44a:
+ - type: topCornerB
+ - galaxy: 159309256
+
+6ac23bb19f8d6156e402b0bf96c4d897:
+ - type: topCornerB
+ - galaxy: 159309256
+
+3f1d5dbab8b27830cacd3c7f0b9fb43d:
+ - type: topCornerB
+ - galaxy: 159309256
+
+325caa8413f64cc20e639049248b0b7d:
+ - type: topCornerB
+ - galaxy: 159309256
+
+fe604e46bfd95d20f19aa29f96a649e5:
+ - type: topCornerB
+ - galaxy: ra235.5dec-1.5_101903389
+
+005f463e4389a7860fc10afde23efebc:
+ - type: topCornerB
+ - galaxy: 1182004486
+
+b39b7a6aeb17c3a140acc0ed137d5561:
+ - type: topCornerB
+ - galaxy: 50700064
+
+4f80ba0388e95841fc38b4f78996b287:
+ - type: topCornerB
+ - galaxy: 50700064
+
+65e2ad67cb6c0e50b4b806c705fc62eb:
+ - type: topCornerB
+ - galaxy: ra223.5dec-2.5_595905474
+
+7b574dcc387940233321a8c9ff10eb71:
+ - type: topCornerB
+ - galaxy: ra350.5dec-32.5_415010262
+
+8eb4b8f7d8ef795b8b680dea224449ab:
+ - type: topCornerB
+ - galaxy: ra354.5dec-32.5_1072005846
+
+6e30b7754678ee3a7b93c7b831b4ba84:
+ - type: topCornerB
+ - galaxy: ra343.5dec-33.5_431701026
+
+157c1554fe77fa8e24bb0926a8baf732:
+ - type: topCornerB
+ - galaxy: ra40.5dec-29.5_101910815
+
+b3a95de36364948cc76cf48837d3da11:
+ - type: topCornerB
+ - galaxy: ra129.5dec1.5_813107257
