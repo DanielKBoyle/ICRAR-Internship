@@ -12,3 +12,5 @@ Unfortunately, some of the data is unusable because of:
 
 This project is to develop a Machine Learning system to scan all the images (70,000+) looking for bad images and removing them from the dataset.
 
+NOTE:
+This repo is still being constructed so parts are currently incomplete or unorganised
